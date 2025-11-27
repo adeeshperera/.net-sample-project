@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zy+U7u4ofc=",
+  "dgSpecHash": "jPaa8BaU71k=",
   "success": true,
-  "projectFilePath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj",
+  "projectFilePath": "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj",
   "expectedPackageFiles": [
     "/home/user4853/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/user4853/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

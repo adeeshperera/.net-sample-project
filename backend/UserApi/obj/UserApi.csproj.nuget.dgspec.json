@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj": {}
+    "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj": {}
   },
   "projects": {
-    "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj": {
+    "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj",
+        "projectUniqueName": "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj",
         "projectName": "UserApi",
-        "projectPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj",
+        "projectPath": "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj",
         "packagesPath": "/home/user4853/.nuget/packages/",
-        "outputPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/obj/",
+        "outputPath": "/home/user4853/Music/onedata-pjt/backend/UserApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user4853/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "olNGEl5Gkx4=",
+  "dgSpecHash": "k/EA/JXbEms=",
   "success": true,
-  "projectFilePath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi.Tests/UserApi.Tests.csproj",
+  "projectFilePath": "/home/user4853/Music/onedata-pjt/backend/UserApi.Tests/UserApi.Tests.csproj",
   "expectedPackageFiles": [
     "/home/user4853/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/user4853/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi.Tests/UserApi.Tests.csproj": {}
+    "/home/user4853/Music/onedata-pjt/backend/UserApi.Tests/UserApi.Tests.csproj": {}
   },
   "projects": {
-    "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi.Tests/UserApi.Tests.csproj": {
+    "/home/user4853/Music/onedata-pjt/backend/UserApi.Tests/UserApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi.Tests/UserApi.Tests.csproj",
+        "projectUniqueName": "/home/user4853/Music/onedata-pjt/backend/UserApi.Tests/UserApi.Tests.csproj",
         "projectName": "UserApi.Tests",
-        "projectPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi.Tests/UserApi.Tests.csproj",
+        "projectPath": "/home/user4853/Music/onedata-pjt/backend/UserApi.Tests/UserApi.Tests.csproj",
         "packagesPath": "/home/user4853/.nuget/packages/",
-        "outputPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi.Tests/obj/",
+        "outputPath": "/home/user4853/Music/onedata-pjt/backend/UserApi.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user4853/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj": {
-                "projectPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj"
+              "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj": {
+                "projectPath": "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj"
               }
             }
           }
@@ -364,14 +364,14 @@
         }
       }
     },
-    "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj": {
+    "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj",
+        "projectUniqueName": "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj",
         "projectName": "UserApi",
-        "projectPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/UserApi.csproj",
+        "projectPath": "/home/user4853/Music/onedata-pjt/backend/UserApi/UserApi.csproj",
         "packagesPath": "/home/user4853/.nuget/packages/",
-        "outputPath": "/home/user4853/Documents/GitHub/Repositories/.net-sample-project/backend/UserApi/obj/",
+        "outputPath": "/home/user4853/Music/onedata-pjt/backend/UserApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user4853/.nuget/NuGet/NuGet.Config"
